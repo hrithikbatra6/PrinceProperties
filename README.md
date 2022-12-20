@@ -16,8 +16,6 @@ This is a website build using react and redux for state management. I used the c
 - React-redux
 - Styled Components(macro)
 
-Am looking for willing collaborators to build and intergrate a Rest API using node and express framework. This will be purely for learning from each other purpose
-
 Having experience with online team would really help me out.
 
 If you are willing to collaborate please contact me through.Email **hrithikbatra6@gmail.com**
